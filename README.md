@@ -6,4 +6,4 @@
 ##Configure Body Parser – npm install body-parser –save
 ##Configure MySQL – npm install mysql 
 
-See more at: http://phptutorials.club/insert-data-into-mysql-using-node-js/
+ 
