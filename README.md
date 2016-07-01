@@ -1,4 +1,9 @@
-# nodejsSimple
-Basic Node  Mysql Add
+# insert-data-into-mysql-using-node-js
 
-1)add data into mysql simple application using express
+##Install Node.js Create a Package
+##npm init Configure Express JS
+##npm install express –save
+##Configure Body Parser – npm install body-parser –save
+##Configure MySQL – npm install mysql 
+
+See more at: http://phptutorials.club/insert-data-into-mysql-using-node-js/
